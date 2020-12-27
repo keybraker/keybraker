@@ -1,4 +1,4 @@
-### [www.itsiakkas.com](www.itsiakkas.com) 🤔
+### [A day in the life](https://itsiakkas.com/)
 
 <!--
 **keybraker/keybraker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
