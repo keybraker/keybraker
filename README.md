@@ -1,5 +1,8 @@
 ### [A day in the life](https://itsiakkas.com/) 
+
+<!--
 ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark)
+-->
 
 <!--
 - 🔭 I’m currently working on ...
