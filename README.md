@@ -1,4 +1,4 @@
-### [A day in the life](https://itsiakkas.com/) 
+### [A day in the life](https://portal-bot.xyz/ "Portal Discord Bot") 
 
 <!--
 ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark)
