@@ -1,16 +1,14 @@
-### [A day in the life](https://portal-bot.xyz/ "Portal Discord Bot") 
+<a href="https://itsiakkas.com" alt="keybraker" /><h3 align="center">A day in the life</h3></a>
 
-<!--
-![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark)
--->
+<!-- ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark) -->
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=keybraker&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=keybraker&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+<!-- <p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=keybraker&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=keybraker&repo=pixel-weather">
+</p> -->
