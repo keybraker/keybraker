@@ -1,4 +1,8 @@
-<h3 align="center"><a href="https://itsiakkas.com" alt="keybraker" target="_blank"/>A day in the life</a></h3>
+<h3 align="center">
+  <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
+    A day in the life
+  </a>
+</h3>
 
 <!-- ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark) -->
 
