@@ -1,9 +1,9 @@
 <h3 align="center">
   <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
-    A day in the life
+    This may not be the best link, but it is a link.
   </a>
 </h3>
-
+<!-- A day in the life -->
 <!-- ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark) -->
 
 <!-- <p align="center">
