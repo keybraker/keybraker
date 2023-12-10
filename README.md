@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
-    This may not be the best link, but it is a link.
+    This may not be the best webpage, but it is a webpage
   </a>
 </h3>
 <!-- A day in the life -->
