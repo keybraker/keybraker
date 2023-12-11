@@ -3,6 +3,11 @@
     This may not be the best webpage, but it is a webpage
   </a>
 </h3>
+
+<div style="overflow-x:hidden; text-align: center;">
+``'-.,_,.-'``'-.,_,.='``'-.,_,.-'``'-.,_,.='````'-.,_,.-'``'-.,_,.='``'-.,_,.-'``'-.,_,.='````'-.,_,.-'``'-.,_,.='``'-.,_,.-'``'-.,_,.='````'-.,_,.-'``'-.,_,.
+</div>
+
 <!-- A day in the life -->
 <!-- ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark) -->
 
