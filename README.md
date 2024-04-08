@@ -4,6 +4,14 @@
   </a>
 </h3>
 
+<div align="center">
+  ( designer and created
+  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>,
+  &nbsp;
+  <a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a> )
+</div>
+
+
 <!-- A day in the life -->
 <!-- ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark) -->
 
