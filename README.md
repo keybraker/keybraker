@@ -4,12 +4,10 @@
   </a>
 </h3>
 
-<div align="center">
-  ( designer and created
-  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>,
-  &nbsp;
-  <a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a> )
-</div>
+<h4 align="center">
+  ( designed and created
+  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>,&nbsp;<a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a> )
+</h4>
 
 
 <!-- A day in the life -->
