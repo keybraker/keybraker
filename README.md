@@ -4,11 +4,11 @@
   </a>
 </h3>
 
-<h4 align="center">
-  ( designed and created
-  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>,&nbsp;<a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a> )
-</h4>
-
+<h5 align="center">
+  also designed and created
+  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a> and 
+  <a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a>
+</h5>
 
 <!-- A day in the life -->
 <!-- ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark) -->
