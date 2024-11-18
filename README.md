@@ -1,14 +1,18 @@
 <h3 align="center">
-  <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
-    This may not be the best webpage, but it is a webpage
-  </a>
+  This <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
+    itsiakkas.com
+  </a>, may not be the best webpage, but it is my webpage.
 </h3>
 
-<h5 align="center">
+<h4 align="center">
   also designed and created
-  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a> and 
+</h4>
+<h3 align="center">
   <a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a>
-</h5>
+  and
+  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>
+</h3>
+
 
 <!-- A day in the life -->
 <!-- ![Keybraker's github stats](https://github-readme-stats.vercel.app/api?username=keybraker&show_icons=true&theme=onedark) -->
