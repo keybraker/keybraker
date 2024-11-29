@@ -1,7 +1,7 @@
 <h3 align="center">
-  This <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
+  <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
     itsiakkas.com
-  </a>, may not be the best webpage, but it is my webpage.
+  </a> may not be the best webpage, but it is my webpage.
 </h3>
 
 <h4 align="center">
