@@ -1,7 +1,7 @@
-U78<h3 align="center">
-  <a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
+<h3 align="center">
+  [<a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
     itsiakkas.com
-  </a> may not be the best webpage, but it is my webpage.
+  </a>] <!–– may not be the best webpage, but it is my webpage. -->
 </h3>
 
 <h4 align="center">
@@ -11,6 +11,8 @@ U78<h3 align="center">
   <a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a>
   and
   <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>
+  <br><br>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/keybraker">
 </h3>
 
 
@@ -27,4 +29,3 @@ U78<h3 align="center">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=keybraker&repo=pixel-weather">
 </p> -->
 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/keybraker">
