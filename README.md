@@ -1,19 +1,23 @@
-<h3 align="center">
-  [<a href="https://itsiakkas.com" alt="keybraker" target="_blank" rel="noopener noreferrer">
-    itsiakkas.com
-  </a>] <!–– may not be the best webpage, but it is my webpage. -->
-</h3>
+#### $${\color{#D35400}My \space webpage \space \color{#56565E}might \space not \space be \space the \space best \space webpage, \space \color{#D35400} but \space it \space is \space a \space nice \space webpage\color{#56565E}.}$$
+[itsiakkas.com](https://itsiakkas.com)
 
-<h4 align="center">
-  also designed and created
-</h4>
-<h3 align="center">
-  <a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a>
-  and
-  <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>
-  <br><br>
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/keybraker">
-</h3>
+
+#### $${\color{#D35400}Designed \space \color{#56565E}and \space \color{#D35400}Created}$$
+
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <a href="https://sinemas.info" alt="sinemas.info" target="_blank" rel="noopener noreferrer">sinemas.info</a>
+    </td>
+    <td style="text-align:center;">
+      <a href="https://medwork.gr" alt="medwork.gr" target="_blank" rel="noopener noreferrer">medwork.gr</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+![GitHub User's stars](https://img.shields.io/github/stars/keybraker)
 
 
 <!-- A day in the life -->
