@@ -3,6 +3,8 @@
 </div>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/keybraker)
+![GitHub followers](https://img.shields.io/github/followers/keybraker)
+
 * this is my personal webpage, I designed and created [itsiakkas.com](https://itsiakkas.com)
 * some more webpages I've designed and created, [sinemas.info](https://sinemas.info) / [medwork.gr](https://medwork.gr)
 * a browser extension I created, [ReSkroutzed](https://github.com/keybraker/reSkroutzed)
