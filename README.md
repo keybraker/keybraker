@@ -8,4 +8,8 @@
 * this is my personal webpage, I designed and created [itsiakkas.com](https://itsiakkas.com)
 * some more webpages I've designed and created, [sinemas.info](https://sinemas.info) / [medwork.gr](https://medwork.gr)
 * a browser extension I created, [ReSkroutzed](https://github.com/keybraker/reSkroutzed)
-* this is a media organising application, [Mediarizer 2](https://github.com/keybraker/mediarizer-2) 
+* this is a media organising application, [Mediarizer 2](https://github.com/keybraker/mediarizer-2)
+
+---
+
+![image](https://github.com/user-attachments/assets/eabdd666-b875-49cd-98d7-25a93209115a)
