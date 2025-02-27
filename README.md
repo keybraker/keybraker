@@ -13,3 +13,9 @@
 ---
 
 ![image](https://github.com/user-attachments/assets/eabdd666-b875-49cd-98d7-25a93209115a)
+
+---
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; font-size: 60px;">
+  <i><b>My work <b>in my own words</b></i>
+</div>
