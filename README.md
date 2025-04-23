@@ -11,10 +11,12 @@
 
 ---
 
-* this is my personal webpage, I designed and created [itsiakkas.com](https://itsiakkas.com)
-* some more webpages I've designed and created, [sinemas.info](https://sinemas.info) / [medwork.gr](https://medwork.gr)
-* a browser extension I created, [reSkroutzed](https://github.com/keybraker/reSkroutzed)
-* this is a media organising application, [Mediarizer 2](https://github.com/keybraker/mediarizer-2)
+#### Things I have designed and created
+* _this is my personal webpage_ > __[itsiakkas.com](https://itsiakkas.com)__
+* _a browser extension_ > __[reSkroutzed](https://github.com/keybraker/reSkroutzed)__
+* _cinema aggregator_ > __[sinemas.info](https://sinemas.info)__
+* _corporate website_ > __[medwork.gr](https://medwork.gr)__
+* _a media organising command tool_ > __[Mediarizer 2](https://github.com/keybraker/mediarizer-2)__
 
 ---
 
