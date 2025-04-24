@@ -20,6 +20,13 @@
 
 ![image](https://github.com/user-attachments/assets/9aba0ce2-5924-4855-b48a-48a90ebd7ff6)
 
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img alt="Fallback image description" src="default-image.png">
+</picture> -->
+
+
 <br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; font-size: 60px;">
