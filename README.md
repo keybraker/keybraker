@@ -18,10 +18,10 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; font-size: 60px;">
-  <i><b>A day in the life</b>, of yet another <b>software engineer</b></i>
-</div>
+![image](https://github.com/user-attachments/assets/9aba0ce2-5924-4855-b48a-48a90ebd7ff6)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/9aba0ce2-5924-4855-b48a-48a90ebd7ff6)
+<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; font-size: 60px;">
+  <i><b>A day in the life</b>, of yet another <b>software engineer</b></i>
+</div>
