@@ -18,7 +18,9 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/9aba0ce2-5924-4855-b48a-48a90ebd7ff6)
+| [sinemas](https://www.sinemas.info/heraklion) | [reSkroutzed](https://github.com/keybraker/reSkroutzed) |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![414030183-eabdd666-b875-49cd-98d7-25a93209115a](https://github.com/user-attachments/assets/3dbcf54f-8f31-41fd-9404-7c8d929af24c) | ![chrome_1280x800_screenshot_2](https://github.com/user-attachments/assets/57c5c1d9-4688-4258-800f-987ec9058983) |
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
