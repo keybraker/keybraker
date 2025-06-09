@@ -10,9 +10,9 @@
 </div>
 
 ##### Things I have designed and created
-* __[itsiakkas.com](https://itsiakkas.com)__ _(this is my personal webpage)_
 * __[reSkroutzed](https://github.com/keybraker/reSkroutzed)__ _(a browser extension)_
 * __[sinemas.info](https://sinemas.info)__ _(cinema aggregator)_
+* __[itsiakkas.com](https://itsiakkas.com)__ _(this is my personal webpage)_
 * __[medwork.gr](https://medwork.gr)__ _(corporate website)_
 * __[Mediarizer 2](https://github.com/keybraker/mediarizer-2)__ _(a media organising command tool)_
 
