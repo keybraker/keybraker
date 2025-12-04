@@ -15,18 +15,21 @@
 </div>
 
 ##### Things I have designed and created
-* __[salaryzer](https://www.salaryzer.com)__ _(the most complete salary analysis for Greece)_
 * __[reSkroutzed](https://github.com/keybraker/reSkroutzed)__ _(a browser extension)_
 * __[sinemas.info](https://sinemas.info)__ _(cinema aggregator)_
-* __[itsiakkas.com](https://itsiakkas.com)__ _(this is my personal webpage)_
+* __[salaryzer](https://www.salaryzer.com)__ _(the most complete salary analysis for Greece)_
 * __[medwork.gr](https://medwork.gr)__ _(corporate website)_
 * __[Mediarizer 2](https://github.com/keybraker/mediarizer-2)__ _(a media organising command tool)_
+* __[itsiakkas.com](https://itsiakkas.com)__ _(this is my personal webpage)_
 
 <br>
 
-| [sinemas](https://www.sinemas.info/heraklion) | [reSkroutzed](https://github.com/keybraker/reSkroutzed) |
+|   |  |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![414030183-eabdd666-b875-49cd-98d7-25a93209115a](https://github.com/user-attachments/assets/3dbcf54f-8f31-41fd-9404-7c8d929af24c) | ![chrome_1280x800_screenshot_2](https://github.com/user-attachments/assets/57c5c1d9-4688-4258-800f-987ec9058983) |
+| [sinemas](https://www.sinemas.gr/heraklion) | [reSkroutzed](https://github.com/keybraker/reSkroutzed) |
+| ![414030183-eabdd666-b875-49cd-98d7-25a93209115a](https://github.com/user-attachments/assets/3dbcf54f-8f31-41fd-9404-7c8d929af24c) | ![reSkroutzed](https://github.com/user-attachments/assets/57c5c1d9-4688-4258-800f-987ec9058983) |
+| [salaryzer.com](https://www.salaryzer.com) | something new is in the making |
+| ![salaryzer](https://github.com/user-attachments/assets/473868e0-e51d-4f98-aa05-fa6a0bded9e9) | ![questionmark](https://github.com/user-attachments/assets/b02b81cc-6de2-491c-af0c-f8e466ea486a) |
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
