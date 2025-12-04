@@ -15,7 +15,7 @@
 </div>
 
 ##### Things I have designed and created
-* __[salaryzer](https://www.salaryzer.com)__ _(salary analysis & breakdown)_ **[WIP]**
+* __[salaryzer](https://www.salaryzer.com)__ _(the most complete salary analysis for Greece)_
 * __[reSkroutzed](https://github.com/keybraker/reSkroutzed)__ _(a browser extension)_
 * __[sinemas.info](https://sinemas.info)__ _(cinema aggregator)_
 * __[itsiakkas.com](https://itsiakkas.com)__ _(this is my personal webpage)_
