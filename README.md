@@ -16,10 +16,10 @@
 
 ##### Things I have designed and created
 * __[reSkroutzed](https://github.com/keybraker/reSkroutzed)__ _(a browser extension)_
-* __[sinemas.info](https://sinemas.info)__ _(cinema aggregator)_
-* __[salaryzer](https://www.salaryzer.com)__ _(the most complete salary analysis for Greece)_
-* __[medwork.gr](https://medwork.gr)__ _(corporate website)_
+* __[sinemas.gr](https://sinemas.gr)__ _(cinema aggregator)_
+* __[salaryzer.gr](https://www.salaryzer.gr)__ _(the most complete salary analysis for Greece)_
 * __[Mediarizer 2](https://github.com/keybraker/mediarizer-2)__ _(a media organising command tool)_
+* __[medwork.gr](https://medwork.gr)__ _(corporate website)_
 * __[itsiakkas.com](https://itsiakkas.com)__ _(this is my personal webpage)_
 
 <br>
