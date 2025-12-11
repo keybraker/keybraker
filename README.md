@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; font-size: 60px;">
-  <i><b>My work <b>in my own words</b></i>
+  <i><b>My work <b>in my own code</b></i>
 </div>
 
 <br>
