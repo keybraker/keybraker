@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/github/stars/keybraker" alt="GitHub User's stars" style="margin-right: 10px;">
     <img src="https://img.shields.io/github/followers/keybraker" alt="GitHub followers">
   </div>
-  <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; font-size: 60px;">
+  <!-- <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; font-size: 60px;">
     <img src="https://user-badge.committers.top/greece/keybraker.svg" alt="committers.top badge">
-  </div>
+  </div> -->
 </div>
 
 ##### Things I have designed and created
