@@ -15,7 +15,7 @@
 </div>
 
 ##### Things I have designed and created
-* __[reSkroutzed](https://github.com/keybraker/reSkroutzed)__ _(a browser extension)_
+* __[reSkroutzed](https://github.com/keybraker/reSkroutzed)__ _(make skroutz great again, download for __[chrome](https://chromewebstore.google.com/detail/reskroutzed/amglnkndjeoojnjjeepeheobhneeogcl)__ or __[firefox](https://addons.mozilla.org/en-US/firefox/addon/reskroutzed/)__)_
 * __[sinemas.gr](https://sinemas.gr)__ _(cinema aggregator)_
 * __[salaryzer.gr](https://www.salaryzer.gr)__ _(the most complete salary analysis for Greece)_
 * __[Mediarizer 2](https://github.com/keybraker/mediarizer-2)__ _(a media organising command tool)_
