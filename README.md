@@ -20,7 +20,8 @@
 * __[salaryzer.gr](https://www.salaryzer.gr)__ _(the most complete salary analysis for Greece)_
 * __[mediarizer 2](https://github.com/keybraker/mediarizer-2)__ _(a media organising command tool)_
 * __[medwork.gr](https://medwork.gr)__ _(corporate website)_
-* __[itsiakkas.com](https://itsiakkas.com)__ _(my personal website)_
+
+> Read more about me on my __[personal website](https://itsiakkas.com)__ _(my personal website)_
 
 <br>
 
