@@ -28,7 +28,7 @@
 |   |  |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [sinemas](https://www.sinemas.gr/heraklion) | [reSkroutzed](https://github.com/keybraker/reSkroutzed) |
-| ![414030183-eabdd666-b875-49cd-98d7-25a93209115a](https://github.com/user-attachments/assets/3dbcf54f-8f31-41fd-9404-7c8d929af24c) | ![reSkroutzed](https://github.com/user-attachments/assets/57c5c1d9-4688-4258-800f-987ec9058983) |
+| ![414030183-eabdd666-b875-49cd-98d7-25a93209115a](https://github.com/user-attachments/assets/3dbcf54f-8f31-41fd-9404-7c8d929af24c) | ![reSkroutzed](https://github.com/user-attachments/assets/684a5321-0a7b-466b-ba18-e53eb76ef421) |
 | [salaryzer.com](https://www.salaryzer.com) | something new is in the making |
 | ![salaryzer](https://github.com/user-attachments/assets/473868e0-e51d-4f98-aa05-fa6a0bded9e9) | ![questionmark](https://github.com/user-attachments/assets/b02b81cc-6de2-491c-af0c-f8e466ea486a) |
 
