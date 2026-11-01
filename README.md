@@ -28,9 +28,9 @@
 |   |  |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [sinemas](https://www.sinemas.gr/heraklion) | [reSkroutzed](https://github.com/keybraker/reSkroutzed) |
-| ![414030183-eabdd666-b875-49cd-98d7-25a93209115a](https://github.com/user-attachments/assets/3dbcf54f-8f31-41fd-9404-7c8d929af24c) | ![reSkroutzed](https://github.com/user-attachments/assets/684a5321-0a7b-466b-ba18-e53eb76ef421) |
+| ![414030183-eabdd666-b875-49cd-98d7-25a93209115a](https://github.com/user-attachments/assets/5080c881-9879-4fea-acab-d39df676568a) | ![reSkroutzed](https://github.com/user-attachments/assets/684a5321-0a7b-466b-ba18-e53eb76ef421) |
 | [salaryzer.com](https://www.salaryzer.com) | something new is in the making |
-| ![salaryzer](https://github.com/user-attachments/assets/473868e0-e51d-4f98-aa05-fa6a0bded9e9) | ![questionmark](https://github.com/user-attachments/assets/b02b81cc-6de2-491c-af0c-f8e466ea486a) |
+| ![salaryzer](https://github.com/user-attachments/assets/9ec2c985-bd70-41cb-a479-928a8d5eb710) | ![questionmark](https://github.com/user-attachments/assets/b02b81cc-6de2-491c-af0c-f8e466ea486a) |
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
